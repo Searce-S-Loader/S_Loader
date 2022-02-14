@@ -4,3 +4,4 @@ numpy
 mysql-connector-python
 SQLAlchemy
 plotly
+pymysql
