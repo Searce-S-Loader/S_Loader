@@ -2,7 +2,8 @@ streamlit
 pandas
 numpy
 mysql-connector-python
-SQLAlchemy
+sqlalchemy
 plotly
 pymysql
 openpyxl
+PIL
