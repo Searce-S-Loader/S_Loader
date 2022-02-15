@@ -6,4 +6,4 @@ sqlalchemy
 plotly
 pymysql
 openpyxl
-PIL
+pillow
